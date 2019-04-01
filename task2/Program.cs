@@ -12,6 +12,7 @@ namespace task2
 {
     public class Program
     {
+        //test to git ub
         public static void Main(string[] args)
         {
             BuildWebHost(args).Run();
